@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Bandung Maze Town</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="judul_fragment2">
+        Berikut merupakan begian-bagian dari Bandung Raya</string>
+    <string name="tvDescSlide3">
+        Aplikasi ini akan menunjukanmu daftar-daftar wisata yang dapat dinikmati oleh-mu, teman-temanmu dan keluargamu</string>
+    <string name="title_activity_maps_wisata1">Map</string>
+    <string name="title_activity_maps_wisata2">Map</string>
+    <string name="title_activity_maps_wisata3">MapsWisata3Activity</string>
+    <string name="title_activity_maps_wisata4">MapsWisata4Activity</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
+        AIzaSyBEqmE-K6-yRscq69Spg24gCuxI4u_ZxXY
+    </string>
+</resources>
